@@ -6,7 +6,7 @@
 }
 
 .container {
-  width: 1400px;
+  width: 1500px;
   background-color: rgb(25, 199, 199);
   height: 100px;
   margin: auto;
@@ -35,15 +35,18 @@ header {
 }
 h1 {
   font-size: 2em;
+  
 }
 h2 {
   font-size: 1.5em;
+  margin: 10px;
 }
 section {
   margin: 20px;
 }
 p {
   font-size: 1.1em;
+  margin: 20px;
 }
 nav {
 }
@@ -57,7 +60,7 @@ nav {
 .item1{
   width: 30%;
   float: left;
-  line-height: 50px;
+  line-height: 40px;
   text-align: center;
 }
 .item {
