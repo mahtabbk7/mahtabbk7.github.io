@@ -6,7 +6,7 @@
 }
 
 .container {
-  width: 1320px;
+  width: 1400px;
   background-color: rgb(25, 199, 199);
   height: 100px;
   margin: auto;
@@ -49,14 +49,19 @@ nav {
 }
 
 .photo {
-  width: 25%;
+  width: 20%;
   float: left;
   line-height: 100px;
   padding-left: 20px;
 }
-
+.item1{
+  width: 30%;
+  float: left;
+  line-height: 50px;
+  text-align: center;
+}
 .item {
-  width: 75%;
+  width: 50%;
   float: left;
   line-height: 100px;
 }
@@ -72,5 +77,6 @@ nav {
 
 .item ul li:hover {
   color: white;
-  transition: 0.4s;
+  transition: 0.2s;
+
 }
