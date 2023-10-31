@@ -6,7 +6,7 @@
 }
 
 .container {
-  width:1320px;
+  width: 1320px;
   height: 100px;
   margin: auto;
 }
@@ -20,6 +20,12 @@ li {
 
 img {
   vertical-align: middle;
+}
+.description {
+  margin: 35px;
+}
+.description li {
+  display: block;
 }
 
 /* common css ends here */
@@ -85,13 +91,11 @@ nav {
 
 section .im:hover {
   color: rgb(25, 199, 199);
-
 }
-section .im{
+section .im {
   display: inline;
-
 }
 
-section a{
+section a {
   text-decoration: none;
 }
